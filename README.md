@@ -1,5 +1,5 @@
 # Connect Four
-A standard 2-player connect four game. 
+A standard 2-player connect four game. Created as a project for an ICS3UE class.
 
 ## How to Play
 **Download and Run:**
